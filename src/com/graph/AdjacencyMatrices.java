@@ -9,6 +9,7 @@ import java.util.List;
  */
 public class AdjacencyMatrices {
 
+	//matrix array
 	private int[][] matrix;
 
 	public int getNodeSize() {
